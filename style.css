@@ -1,0 +1,16 @@
+
+#fname,#lname,#adrs,#pin,#sta,#con{
+    width: 400px;
+    height: 30px;
+}
+label,span,div{
+    font-size: 20px;
+}
+button{
+    width: 400px;
+    text-align: center;
+}
+#top{
+    display: flex;
+    justify-content: center;
+}
